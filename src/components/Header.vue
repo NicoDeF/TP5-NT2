@@ -47,13 +47,13 @@
   h1 {
   font-weight: normal;
   line-height: 1.1;
-  padding: 20px 0;
+  padding: 10px ;
 }
 #colorDisplay {
-  font-size: 200%;
+  font-size: 150%;
 }
 #header {
-	background: steelblue;
+	background: rgb(70, 180, 147);
 	text-transform: uppercase;
 	text-align: center;
 	margin: 0;

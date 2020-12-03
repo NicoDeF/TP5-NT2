@@ -38,11 +38,12 @@
 </script>
 
 <style scoped lang="css">
+
  .square {
-  width: 30%;
+  width: 25%;
   padding-bottom: 30%;
   float: left;
-  margin: 1.66%;
+  margin: 2%;
   border-radius: 10%;
   transition: background 0.8s;
   -webkit-transition: background 0.8s;
